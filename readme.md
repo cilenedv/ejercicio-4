@@ -1,4 +1,7 @@
 # PSEUDOCODIGO DEL EJERCICIO 4
+
+Se requiere un algoritmo para determinar el costo que tendrá realizar una llamada telefónica con base en el tiempo que dura la llamada y en el costo por minuto.
+
 1. Inicio
 2. Ingresar el primer número
 3. Ingresar el segundo número
